@@ -1,0 +1,5 @@
+1. From which country do most phone models in Kenya originate from?
+2. What is the average price for each mobile phone brand compared to their rating?
+3. How do memory and storage specifications affect purchase behavior?
+4. From which country of origin is each manufacturer?
+
